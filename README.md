@@ -1,3 +1,3 @@
 # RandomWalk
 
-Tugas pemodelan simulasi dann optimasi
+Tugas pemodelan simulasi dan optimasi
